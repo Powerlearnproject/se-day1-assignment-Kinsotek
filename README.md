@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-## Explain what software engineering is and discuss its importance in the technology industry.
+# Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering is an approach to designing, developing, testing, and maintaining software. It involves the application of engineering principles to ensure that software is reliable, efficient, and scalable while towards meeting the needs of users. Software engineering covers a broad range of activities, including:
 
 Requirements Analysis: Understanding and documenting what users need from the software.
@@ -13,14 +13,14 @@ Development: Writing code to implement the software's functionality.
 Testing: Ensuring that the software is free from bugs and performs as expected.
 Maintenance: Updating and improving the software after it has been deployed, addressing issues and adding new features.
 
-# Some of the importance of software engineering in the technology industry includes:
+## Some of the importance of software engineering in the technology industry includes:
 Cost Efficiency:
 By following structured processes and best practices, software engineering helps reduce the cost of software development. It prevents errors early in the development process, reducing the need for costly rework later.
 
-Collaboration and Teamwork:
+### Collaboration and Teamwork:
 Software engineering principles promote effective collaboration among developers, designers, testers, and other stakeholders. This is crucial in large projects where multiple teams are involved.
 
-Meeting User Needs:
+### Meeting User Needs:
 A key part of software engineering is understanding and accurately capturing user requirements. This ensures that the final product effectively meets the needs of its users, leading to higher user satisfaction and better adoption rates.
 
 
@@ -30,7 +30,7 @@ Fortran & C - The development of programming languages like Fortran and C.
 Discipline - The establishment of software engineering as a discipline in the 1960s.
 Structured Programming - The advent of structured programming in the 1970s.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+## List and briefly explain the phases of the Software Development Life Cycle.
 Requirements Gathering: Understanding and documenting what users need from the software.
 System Design: Planning the structure of the software system, including its architecture, components, and data flow.
 Development: Writing code to implement the software's functionality.
@@ -79,7 +79,7 @@ Summary:
 IDEs streamline coding and debugging.
 VCS manage and track code changes, enhancing teamwork.
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Some of the challenges and the resoltions include:
 
 Debugging Complex Issues:
@@ -108,7 +108,7 @@ Acceptance Testing: Tests the system against user requirements to ensure it meet
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the process of carefully designing the questions or instructions we give to AI models, like ChatGPT, to get the best possible answers.
 
@@ -121,7 +121,7 @@ Tailored Responses: You can design prompts to get answers in a specific format o
 
 Fewer Mistakes: Clear and precise prompts help avoid misunderstandings, leading to more reliable answers.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: Explain what is software engineering to a child
 
 Improved prompt: Explain what is software engineering to a 5 years old child from African descent
