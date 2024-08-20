@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+## Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering is an approach to designing, developing, testing, and maintaining software. It involves the application of engineering principles to ensure that software is reliable, efficient, and scalable while towards meeting the needs of users. Software engineering covers a broad range of activities, including:
 
 Requirements Analysis: Understanding and documenting what users need from the software.
@@ -13,7 +13,7 @@ Development: Writing code to implement the software's functionality.
 Testing: Ensuring that the software is free from bugs and performs as expected.
 Maintenance: Updating and improving the software after it has been deployed, addressing issues and adding new features.
 
-Some of the importance of software engineering in the technology industry includes:
+# Some of the importance of software engineering in the technology industry includes:
 Cost Efficiency:
 By following structured processes and best practices, software engineering helps reduce the cost of software development. It prevents errors early in the development process, reducing the need for costly rework later.
 
@@ -24,7 +24,7 @@ Meeting User Needs:
 A key part of software engineering is understanding and accurately capturing user requirements. This ensures that the final product effectively meets the needs of its users, leading to higher user satisfaction and better adoption rates.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+## Identify and describe at least three key milestones in the evolution of software engineering.
 These includes:
 Fortran & C - The development of programming languages like Fortran and C.
 Discipline - The establishment of software engineering as a discipline in the 1960s.
@@ -54,14 +54,14 @@ User Involvement: Continuous throughout the project.
 Best For: Projects with evolving requirements or where user feedback is key.
 Example: Developing a startup's mobile app with regular updates based on user feedback.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer: Responsible for designing and writing the software codes
 Quality Assurance: Responsible for testing the codes
 Project Manager: Responsible for planning and providing insight into the project and software team. Also follows up on the progress of the software development
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Importance of IDEs and Version Control systems
+## Importance of IDEs and Version Control systems
 IDEs:
 
 Boost Efficiency: Automate tasks like code formatting and debugging.
@@ -96,7 +96,7 @@ Challenge: Frequent changes in project requirements can disrupt development and 
 Resolution: Apply Agile practices, maintain continuous communication with stakeholders, and keep the code flexible to adapt to changes smoothly.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Tests individual components or functions in isolation to catch bugs early.
 
 Integration Testing: Tests the interaction between different modules to ensure they work together.
@@ -112,7 +112,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Prompt engineering is the process of carefully designing the questions or instructions we give to AI models, like ChatGPT, to get the best possible answers.
 
-It's Importance in interacting with AI models:
+## It's Importance in interacting with AI models:
 Better AI Answers: Well-crafted prompts help the AI give more accurate and relevant responses.
 
 Saves Time: Good prompts reduce the need to try multiple times to get the right answer, making interactions faster.
